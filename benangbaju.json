@@ -1,0 +1,523 @@
+[
+  {
+    "name": "Cherry Shirt Black",
+    "slug": "cherry-shirt-black",
+    "description": "Kemeja Cherry dengan motif yang menarik dan nyaman dipakai.",
+    "excerpt": "Kemeja Cherry dengan motif yang menarik.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/zGgwhAY.jpeg",
+    "images": [
+      "https://i.imgur.com/zGgwhAY.jpeg",
+      "https://i.imgur.com/CsjlOwG.jpeg",
+      "https://i.imgur.com/tUNhEJW.jpeg",
+      "https://i.imgur.com/p7St6qx.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Cherry Shirt Navy",
+    "slug": "cherry-shirt-navy",
+    "description": "Kemeja Cherry dengan motif yang menarik dan nyaman dipakai.",
+    "excerpt": "Kemeja Cherry dengan motif yang menarik.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/zaz9ff9.jpeg",
+    "images": [
+      "https://i.imgur.com/zaz9ff9.jpeg",
+      "https://i.imgur.com/Nre6HA6.jpeg",
+      "https://i.imgur.com/5sgjmfV.jpeg",
+      "https://i.imgur.com/uWlTIx1.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Cherry Shirt Muddy Taupe",
+    "slug": "cherry-shirt-muddy-taupe",
+    "description": "Kemeja Cherry dengan motif yang menarik dan nyaman dipakai.",
+    "excerpt": "Kemeja Cherry dengan motif yang menarik.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/oMIFjRW.jpeg",
+    "images": [
+      "https://i.imgur.com/oMIFjRW.jpeg",
+      "https://i.imgur.com/XAmrQrz.jpeg",
+      "https://i.imgur.com/znjUHVO.jpeg",
+      "https://i.imgur.com/A9CzSXO.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Cherry Shirt Muted Sage",
+    "slug": "cherry-shirt-muted-sage",
+    "description": "Kemeja Cherry dengan motif yang menarik dan nyaman dipakai.",
+    "excerpt": "Kemeja Cherry dengan motif yang menarik.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/hSbVx1x.jpeg",
+    "images": [
+      "https://i.imgur.com/hSbVx1x.jpeg",
+      "https://i.imgur.com/RfWasYv.jpeg",
+      "https://i.imgur.com/CR8WRYZ.jpeg",
+      "https://i.imgur.com/brHlaSD.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Hazy Shirt White",
+    "slug": "hazy-shirt-white",
+    "description": "Kemeja Hazy dengan desain yang simpel namun menawan.",
+    "excerpt": "Kemeja Hazy dengan desain yang simpel.",
+    "price": 160000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/9ZZfrGf.jpeg",
+    "images": [
+      "https://i.imgur.com/9ZZfrGf.jpeg",
+      "https://i.imgur.com/dT8GxBP.jpeg",
+      "https://i.imgur.com/3ykvR50.jpeg",
+      "https://i.imgur.com/K0JQD88.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Hollow Vest Muddy Taupe",
+    "slug": "hollow-vest-muddy-taupe",
+    "description": "Vest Hollow yang cocok untuk penampilan santai atau formal.",
+    "excerpt": "Vest Hollow yang multifungsi.",
+    "price": 190000,
+    "tags": ["vest", "woman"],
+    "thumbnail": "https://i.imgur.com/vbnAhCE.jpeg",
+    "images": [
+      "https://i.imgur.com/vbnAhCE.jpeg",
+      "https://i.imgur.com/Kr5SLY6.jpeg",
+      "https://i.imgur.com/64teYWh.jpeg",
+      "https://i.imgur.com/EM1Fc76.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Hollow Vest Gray",
+    "slug": "hollow-vest-gray",
+    "description": "Vest Hollow yang cocok untuk penampilan santai atau formal.",
+    "excerpt": "Vest Hollow yang multifungsi.",
+    "price": 190000,
+    "tags": ["vest", "woman"],
+    "thumbnail": "https://i.imgur.com/jOrH7cT.jpeg",
+    "images": [
+      "https://i.imgur.com/jOrH7cT.jpeg",
+      "https://i.imgur.com/aVX1dHh.jpeg",
+      "https://i.imgur.com/V2WAJYD.jpeg",
+      "https://i.imgur.com/voWLUmG.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Jolly Shirt Blue",
+    "slug": "jolly-shirt-blue",
+    "description": "Kemeja Jolly dengan warna cerah yang menyegarkan.",
+    "excerpt": "Kemeja Jolly dengan warna cerah.",
+    "price": 170000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/7dIdsMk.jpeg",
+    "images": [
+      "https://i.imgur.com/7dIdsMk.jpeg",
+      "https://i.imgur.com/9hzad1R.jpeg",
+      "https://i.imgur.com/492cOLL.jpeg",
+      "https://i.imgur.com/03plcLP.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Plain Shirt Blue",
+    "slug": "plain-shirt-blue",
+    "description": "Kemeja Plain dengan desain sederhana namun elegan.",
+    "excerpt": "Kemeja Plain dengan desain sederhana.",
+    "price": 155000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/UCrmmS7.jpeg",
+    "images": [
+      "https://i.imgur.com/UCrmmS7.jpeg",
+      "https://i.imgur.com/YaderbC.jpeg",
+      "https://i.imgur.com/jECNvIM.jpeg",
+      "https://i.imgur.com/Xto1HpE.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Plain Shirt Combo Blue Sage Green",
+    "slug": "plain-shirt-combo-blue-sage-green",
+    "description": "Kemeja Plain dengan desain sederhana namun elegan.",
+    "excerpt": "Kemeja Plain dengan desain sederhana.",
+    "price": 255000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/GdHaOmB.jpeg",
+    "images": [
+      "https://i.imgur.com/GdHaOmB.jpeg",
+      "https://i.imgur.com/CQBXzAF.jpeg",
+      "https://i.imgur.com/LF3keey.jpeg",
+      "https://i.imgur.com/4cau6Bx.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Plain Shirt Broken White",
+    "slug": "plain-shirt-broken-white",
+    "description": "Kemeja Plain dengan desain sederhana namun elegan.",
+    "excerpt": "Kemeja Plain dengan desain sederhana.",
+    "price": 155000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/CJlfefZ.jpeg",
+    "images": [
+      "https://i.imgur.com/CJlfefZ.jpeg",
+      "https://i.imgur.com/V3jJooj.jpeg",
+      "https://i.imgur.com/hNw2pwj.jpeg",
+      "https://i.imgur.com/AX1jT8i.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Plain Shirt Lilac",
+    "slug": "plain-shirt-lilac",
+    "description": "Kemeja Plain dengan desain sederhana namun elegan.",
+    "excerpt": "Kemeja Plain dengan desain sederhana.",
+    "price": 155000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/WuScYrX.jpeg",
+    "images": [
+      "https://i.imgur.com/WuScYrX.jpeg",
+      "https://i.imgur.com/BrNJIPU.jpeg",
+      "https://i.imgur.com/CXRxDpE.jpeg",
+      "https://i.imgur.com/HeCwV3b.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Plain Shirt Sage Green",
+    "slug": "plain-shirt-sage-green",
+    "description": "Kemeja Plain dengan desain sederhana namun elegan.",
+    "excerpt": "Kemeja Plain dengan desain sederhana.",
+    "price": 155000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/FHCKFXm.jpeg",
+    "images": [
+      "https://i.imgur.com/FHCKFXm.jpeg",
+      "https://i.imgur.com/e2gybN0.jpeg",
+      "https://i.imgur.com/C4W25c9.jpeg",
+      "https://i.imgur.com/wM0pvSL.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Puffy Shirt Sky Blue",
+    "slug": "puffy-shirt-sky-blue",
+    "description": "Kemeja Puffy dengan model yang memberikan tampilan yang unik.",
+    "excerpt": "Kemeja Puffy dengan model yang unik.",
+    "price": 180000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/qjrddCx.jpeg",
+    "images": [
+      "https://i.imgur.com/qjrddCx.jpeg",
+      "https://i.imgur.com/Z6uj2TV.jpeg",
+      "https://i.imgur.com/Zp8bIVz.jpeg",
+      "https://i.imgur.com/xyFuHFB.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Puffy Shirt Magenta",
+    "slug": "puffy-shirt-magenta",
+    "description": "Kemeja Puffy dengan model yang memberikan tampilan yang unik.",
+    "excerpt": "Kemeja Puffy dengan model yang unik.",
+    "price": 180000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/MpTqg2J.jpeg",
+    "images": [
+      "https://i.imgur.com/MpTqg2J.jpeg",
+      "https://i.imgur.com/N4YHP3M.jpeg",
+      "https://i.imgur.com/b5NJ4tR.jpeg",
+      "https://i.imgur.com/LEPIvJG.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Renown Wrap Skirt",
+    "slug": "renown-wrap-skirt",
+    "description": "Rok Renown Wrap dengan desain yang modis dan nyaman dipakai sehari-hari.",
+    "excerpt": "Rok Renown Wrap dengan desain modis.",
+    "price": 200000,
+    "tags": ["skirt", "woman"],
+    "thumbnail": "https://i.imgur.com/xHkBxAs.jpeg",
+    "images": [
+      "https://i.imgur.com/xHkBxAs.jpeg",
+      "https://i.imgur.com/dezYH3H.jpeg",
+      "https://i.imgur.com/tE9WMbi.jpeg",
+      "https://i.imgur.com/sVhhrvD.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Ritzy Pants Sage Green",
+    "slug": "ritzy-pants-sage-green",
+    "description": "Celana Ritzy dengan desain yang elegan dan nyaman dipakai sepanjang hari.",
+    "excerpt": "Celana Ritzy dengan desain elegan.",
+    "price": 220000,
+    "tags": ["pants", "woman"],
+    "thumbnail": "https://i.imgur.com/6Ua3ldX.jpeg",
+    "images": [
+      "https://i.imgur.com/6Ua3ldX.jpeg",
+      "https://i.imgur.com/B1lQhZD.jpeg",
+      "https://i.imgur.com/HX4KVvw.jpeg",
+      "https://i.imgur.com/AIIkoGF.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Ritzy Pants Sage Green",
+    "slug": "ritzy-pants-sage-green",
+    "description": "Celana Ritzy dengan desain yang elegan dan nyaman dipakai sepanjang hari.",
+    "excerpt": "Celana Ritzy dengan desain elegan.",
+    "price": 220000,
+    "tags": ["pants", "woman"],
+    "thumbnail": "https://i.imgur.com/siHIiqE.jpeg",
+    "images": [
+      "https://i.imgur.com/siHIiqE.jpeg",
+      "https://i.imgur.com/JKbYf3J.jpeg",
+      "https://i.imgur.com/rknqps3.jpeg",
+      "https://i.imgur.com/39OhxlD.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Ruth Shirt",
+    "slug": "ruth-shirt",
+    "description": "Kemeja Ruth dengan desain yang simpel namun menawan.",
+    "excerpt": "Kemeja Ruth dengan desain simpel.",
+    "price": 165000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/WJBQJLw.jpeg",
+    "images": [
+      "https://i.imgur.com/WJBQJLw.jpeg",
+      "https://i.imgur.com/tm73F7W.jpeg",
+      "https://i.imgur.com/y4xSIlx.jpeg",
+      "https://i.imgur.com/TmIS5U0.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Shire Blouse Cream",
+    "slug": "shire-blouse-cream",
+    "description": "Blouse Shire yang elegan dan nyaman untuk dipakai sehari-hari.",
+    "excerpt": "Blouse Shire yang elegan dan nyaman.",
+    "price": 150000,
+    "tags": ["blouse", "woman", "shirt"],
+    "thumbnail": "https://i.imgur.com/IQOUabt.jpeg",
+    "images": [
+      "https://i.imgur.com/IQOUabt.jpeg",
+      "https://i.imgur.com/8xXJkMH.jpeg",
+      "https://i.imgur.com/i9tqv0K.jpeg",
+      "https://i.imgur.com/7MchHXB.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Shire Blouse Baby Pink",
+    "slug": "shire-blouse-baby-pink",
+    "description": "Blouse Shire yang elegan dan nyaman untuk dipakai sehari-hari.",
+    "excerpt": "Blouse Shire yang elegan dan nyaman.",
+    "price": 150000,
+    "tags": ["blouse", "woman", "shirt"],
+    "thumbnail": "https://i.imgur.com/XNJqSX7.jpeg",
+    "images": [
+      "https://i.imgur.com/XNJqSX7.jpeg",
+      "https://i.imgur.com/Ooib9at.jpeg",
+      "https://i.imgur.com/PzYPdPd.jpeg",
+      "https://i.imgur.com/La3jYWY.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Shire Blouse Rainbow",
+    "slug": "shire-blouse-rainbow",
+    "description": "Blouse Shire yang elegan dan nyaman untuk dipakai sehari-hari.",
+    "excerpt": "Blouse Shire yang elegan dan nyaman.",
+    "price": 150000,
+    "tags": ["blouse", "woman", "shirt"],
+    "thumbnail": "https://i.imgur.com/xRAdXCh.jpeg",
+    "images": [
+      "https://i.imgur.com/xRAdXCh.jpeg",
+      "https://i.imgur.com/xJSSehc.jpeg",
+      "https://i.imgur.com/i6aYExj.jpeg",
+      "https://i.imgur.com/SpKBXT0.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Simple Wide Leg Pants Chocolate Milk",
+    "slug": "simple-wide-leg-pants-chocolate-milk",
+    "description": "Celana Simple Wide Leg yang memberikan kenyamanan dan gaya yang chic.",
+    "excerpt": "Celana Simple Wide Leg yang nyaman dan chic.",
+    "price": 210000,
+    "tags": ["pants", "woman"],
+    "thumbnail": "https://i.imgur.com/VShHro0.jpeg",
+    "images": [
+      "https://i.imgur.com/VShHro0.jpeg",
+      "https://i.imgur.com/8V7B8if.jpeg",
+      "https://i.imgur.com/OK3LJ2E.jpeg",
+      "https://i.imgur.com/TjI8lvx.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Simple Wide Leg Pants Orange",
+    "slug": "simple-wide-leg-pants-orange",
+    "description": "Celana Simple Wide Leg yang memberikan kenyamanan dan gaya yang chic.",
+    "excerpt": "Celana Simple Wide Leg yang nyaman dan chic.",
+    "price": 210000,
+    "tags": ["pants", "woman"],
+    "thumbnail": "https://i.imgur.com/NYLUDIa.jpeg",
+    "images": [
+      "https://i.imgur.com/NYLUDIa.jpeg",
+      "https://i.imgur.com/DMlwxjp.jpeg",
+      "https://i.imgur.com/QuJVhB1.jpeg",
+      "https://i.imgur.com/aUtRGf6.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Simple Wide Leg Pants Sage Green",
+    "slug": "simple-wide-leg-pants-sage-green",
+    "description": "Celana Simple Wide Leg yang memberikan kenyamanan dan gaya yang chic.",
+    "excerpt": "Celana Simple Wide Leg yang nyaman dan chic.",
+    "price": 210000,
+    "tags": ["pants", "woman"],
+    "thumbnail": "https://i.imgur.com/H0ct8Zt.jpeg",
+    "images": [
+      "https://i.imgur.com/H0ct8Zt.jpeg",
+      "https://i.imgur.com/8e2l3w4.jpeg",
+      "https://i.imgur.com/QTPC8BX.jpeg",
+      "https://i.imgur.com/x6L1LLb.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Textura Blouse",
+    "slug": "textura-blouse",
+    "description": "Blouse Textura dengan tekstur yang unik dan menarik.",
+    "excerpt": "Blouse Textura dengan tekstur unik.",
+    "price": 185000,
+    "tags": ["blouse", "woman"],
+    "thumbnail": "https://i.imgur.com/YDONv6x.jpeg",
+    "images": [
+      "https://i.imgur.com/YDONv6x.jpeg",
+      "https://i.imgur.com/LLbtxrZ.jpeg",
+      "https://i.imgur.com/kx66qCy.jpeg",
+      "https://i.imgur.com/HXp6bbw.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Zepine Shirt Aqua Blue",
+    "slug": "zepine-shirt-aqua-blue",
+    "description": "Kemeja Zepine dengan desain yang elegan dan cocok untuk berbagai acara.",
+    "excerpt": "Kemeja Zepine dengan desain elegan.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/m4eyWkX.jpeg",
+    "images": [
+      "https://i.imgur.com/m4eyWkX.jpeg",
+      "https://i.imgur.com/Nbr8P3Y.jpeg",
+      "https://i.imgur.com/l88NBca.jpeg",
+      "https://i.imgur.com/3vLUfru.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Zepine Shirt Pink",
+    "slug": "zepine-shirt-pink",
+    "description": "Kemeja Zepine dengan desain yang elegan dan cocok untuk berbagai acara.",
+    "excerpt": "Kemeja Zepine dengan desain elegan.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/ZNYYFCO.jpeg",
+    "images": [
+      "https://i.imgur.com/ZNYYFCO.jpeg",
+      "https://i.imgur.com/NUHE8sI.jpeg",
+      "https://i.imgur.com/uCZcnIW.jpeg",
+      "https://i.imgur.com/m3gbbOU.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  },
+  {
+    "name": "Zepine Shirt Sage Green",
+    "slug": "zepine-shirt-sage-green",
+    "description": "Kemeja Zepine dengan desain yang elegan dan cocok untuk berbagai acara.",
+    "excerpt": "Kemeja Zepine dengan desain elegan.",
+    "price": 175000,
+    "tags": ["shirt", "woman"],
+    "thumbnail": "https://i.imgur.com/oWDXTOH.jpeg",
+    "images": [
+      "https://i.imgur.com/oWDXTOH.jpeg",
+      "https://i.imgur.com/Sjy7GXs.jpeg",
+      "https://i.imgur.com/BkFfJkZ.jpeg",
+      "https://i.imgur.com/KfRNEyL.jpeg"
+    ],
+    "createdAt":{"$date":{"$numberLong":"1707213600000"}},
+    "updatedAt":{"$date":{"$numberLong":"1707213600000"}}
+  }
+]
